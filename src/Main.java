@@ -10,7 +10,7 @@ public class Main {
 
         int mile = (int) (ticket / rub);
 
-        // Выврдим на экран.
+        // Выводим на экран.
         System.out.println(mile);
     }
 }
